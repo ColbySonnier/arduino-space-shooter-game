@@ -1,0 +1,11 @@
+# Mac system files
+.DS_Store
+
+# Arduino build folders
+build/
+*.hex
+*.elf
+*.bin
+
+# VSCode
+.vscode/
